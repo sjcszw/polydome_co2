@@ -23,7 +23,7 @@ In the Polydome, a roof-top heat pump, AERMEC RTY-04, serves as an HVAC system. 
 
 ``raw_06-12-2021_14-12-2021.csv``: original dataset from the local database
 
-``raw_06-12-2021_14-12-2021.mat`: a structure ``exp` in Matlab that contains the same data as the '.csv' file.
+``raw_06-12-2021_14-12-2021.mat``: a structure ``exp`` in Matlab that contains the same data as the '.csv' file.
 
 :file_folder: **docs**: contains some pictures to illustrate the system architecture.
 
