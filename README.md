@@ -29,9 +29,9 @@ In the Polydome, a roof-top heat pump, AERMEC RTY-04, serves as an HVAC system. 
 
 ## Measurements
 
-``time_str`` \[GMT-0\]: date and time of the current measurements. Note it records the time of Europe/Zurich.
+``time_str`` \[GMT-1\]: date and time of the current measurements. Note it records the time of Europe/Zurich.
 
-``time`` \[GMT-0\]: datenum(time_str) in Matlab. Note it records the time of Europe/Zurich.
+``time`` \[GMT-1\]: datenum(time_str) in Matlab. Note it records the time of Europe/Zurich.
 
 ``co2_1`` \[ppm\]: CO2 level measured by 1 air quality sensor
 
